@@ -1,0 +1,6 @@
+<?php
+
+function openspirit_install() {
+  theme_enable(array('bamboo'));
+  variable_set('theme_default', 'bamboo');
+}
