@@ -62,8 +62,8 @@ projects[views_bulk_operations][version] = "3.1"
 
 
 ; Themes
-projects[adaptivetheme_admin][subdir] = contrib
-projects[adaptivetheme_admin][version] = "3.1"
+;projects[adaptivetheme_admin][subdir] = contrib
+;projects[adaptivetheme_admin][version] = "3.1"
 
 projects[adaptivetheme][subdir] = contrib
 projects[adaptivetheme][version] = "3.1"
