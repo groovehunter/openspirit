@@ -56,7 +56,7 @@ projects[taxonomy_menu][version] = "1.4"
 projects[views][subdir] = contrib
 projects[views][version] = "3.6"
 
-projects[][subdir] = contrib
+projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = "3.1"
 
 
