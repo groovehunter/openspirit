@@ -24,3 +24,7 @@ dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = views
 dependencies[] = views_ui
+
+
+; own
+dependencies[] = wir_prozesse
