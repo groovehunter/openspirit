@@ -75,4 +75,7 @@ projects[simpler][version] = "1.0-beta2"
 
 
 
+; own
+projects[wir_prozesse][subdir] = 
+projects[wir_prozesse][version] = "0.1"
 
