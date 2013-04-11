@@ -27,4 +27,5 @@ dependencies[] = views_ui
 
 
 ; own
-dependencies[] = wir_prozesse
+;dependencies[] = wir_prozesse
+dependencies[] = simple_config
