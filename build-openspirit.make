@@ -9,3 +9,8 @@ projects[openspirit][type] = profile
 projects[openspirit][download][type] = git
 projects[openspirit][download][url] = https://github.com/groovehunter/openspirit.git
 projects[openspirit][download][branch] = master
+
+projects[openspirit][type] = profile
+projects[openspirit][download][type] = git
+projects[openspirit][download][url] = https://github.com/groovehunter/workflow.git
+projects[openspirit][download][branch] = master
