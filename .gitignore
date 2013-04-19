@@ -36,7 +36,8 @@ xmlrpc.php
 /scripts
 /themes
 
+# own adds
 data
-.swp
-.swo
-
+*.swp
+*.swo
+*.tar
