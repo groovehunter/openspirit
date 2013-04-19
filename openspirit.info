@@ -22,10 +22,11 @@ dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = dhtml_menu
 dependencies[] = features
+dependencies[] = features_extra
+dependencies[] = uuid
+dependencies[] = uuid_features
 dependencies[] = views
 dependencies[] = views_ui
 
 
 ; own
-;dependencies[] = wir_prozesse
-dependencies[] = simple_config

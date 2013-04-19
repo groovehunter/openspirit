@@ -1,7 +1,21 @@
 
 includes[] = basemodules.make
 
+; for copy + edit
+;projects[][subdir] = contrib
+;projects[][version] = ""
 
+
+
+; extra modules
+projects[uuid][subdir] = contrib
+projects[uuid][version] = "1.0-alpha3"
+
+projects[uuid_features][subdir] = contrib
+projects[uuid_features][version] = "1.0-alpha3"
+
+projects[features_extra][subdir] = contrib
+projects[features_extra][version] = "1.0-beta1"
 
 projects[context][subdir] = contrib
 projects[context][version] = "3.0-beta6"

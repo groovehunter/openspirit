@@ -10,7 +10,7 @@ projects[advanced_help][subdir] = contrib
 projects[advanced_help][version] = "1.0"
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 
 projects[dhtml_menu][subdir] = contrib
 projects[dhtml_menu][version] = "1.0-beta1"

@@ -35,3 +35,8 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+data
+.swp
+.swo
+
