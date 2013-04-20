@@ -35,3 +35,9 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# own adds
+data
+*.swp
+*.swo
+*.tar
