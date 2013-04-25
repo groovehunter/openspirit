@@ -10,7 +10,7 @@ includes[] = basemodules.make
 projects[wir_prozesse][subdir] = features
 projects[wir_prozesse][type] = module
 projects[wir_prozesse][download][type] = git
-projects[wir_prozesse][download][url] = "git@github.com/groovehunter/wir_prozesse.git"
+projects[wir_prozesse][download][url] = "git://github.com/groovehunter/wir_prozesse.git"
 ;projects[wir_prozesse][version] = ""
 
 
