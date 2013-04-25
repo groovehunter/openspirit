@@ -27,6 +27,12 @@ projects[features][version] = "1.0"
 projects[ftools][subdir] = contrib
 projects[ftools][version] = "1.6"
 
+projects[masquerade_nominate][version] = "1.0-alpha1"
+projects[masquerade_nominate][subdir] = contrib
+
+projects[masquerade][version] = "1.0-rc5"
+projects[masquerade][subdir] = contrib
+
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = "1.7"
 
