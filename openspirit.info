@@ -16,6 +16,8 @@ dependencies[] = taxonomy
 
 ; Contrib
 dependencies[] = admin_menu
+
+;dependencies[] = admin_views
 dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = ctools
