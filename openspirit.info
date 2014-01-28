@@ -30,6 +30,7 @@ dependencies[] = masquerade_nominate
 dependencies[] = masquerade
 dependencies[] = module_filter
 dependencies[] = simplewiki
+dependencies[] = strongarm
 dependencies[] = uuid
 dependencies[] = uuid_features
 dependencies[] = views
