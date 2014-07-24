@@ -39,9 +39,9 @@ projects[openspirit_basic_features][download][branch] = "master"
 ; Themes
 projects[liquid_coolness][version] = "3.1"
 
-projects[openspirit][download][type] = git
+;projects[openspirit][download][type] = git
 ;projects[openspirit][download][url] = "https://github.com/groovehunter/openspirit_basic_features.git"
-projects[openspirit][download][url] = "git://github.com/groovehunter/openspirit_basic_features.git"
-projects[openspirit][download][branch] = master
+;projects[openspirit][download][url] = "git://github.com/groovehunter/openspirit_basic_features.git"
+;projects[openspirit][download][branch] = master
 
 
