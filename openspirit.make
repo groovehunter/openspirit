@@ -29,12 +29,6 @@ projects[views][version] = "3.8"
 projects[views_bulk_operations][version] = "3.2"
 
 
-projects[openspirit_basic_features][type] = "module"
-projects[openspirit_basic_features][download][type] = "git"
-;projects[openspirit_basic_features][download][url] = "https://github.com/groovehunter/openspirit_basic_features"
-projects[openspirit_basic_features][download][url] = "git://github.com/groovehunter/openspirit_basic_features"
-projects[openspirit_basic_features][download][branch] = "master"
-
 
 ; Themes
 projects[liquid_coolness][version] = "3.1"
