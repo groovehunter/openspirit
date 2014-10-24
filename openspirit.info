@@ -26,13 +26,9 @@ dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = fe_profile
 dependencies[] = fe_block
-dependencies[] = masquerade_nominate
-dependencies[] = masquerade
-dependencies[] = module_filter
-dependencies[] = simplewiki
 dependencies[] = strongarm
-dependencies[] = uuid
-dependencies[] = uuid_features
+;dependencies[] = uuid
+;dependencies[] = uuid_features
 dependencies[] = views
 dependencies[] = views_ui
 
