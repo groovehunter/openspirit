@@ -31,7 +31,7 @@ projects[views_bulk_operations][version] = "3.2"
 
 
 ; Themes
-projects[liquid_coolness][version] = "3.1"
+projects[liquid_coolness][version] = "1.0"
 
 ;projects[openspirit][download][type] = git
 ;projects[openspirit][download][url] = "https://github.com/groovehunter/openspirit_basic_features.git"
