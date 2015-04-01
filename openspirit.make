@@ -24,7 +24,7 @@ projects[strongarm][version] = "2.0"
 projects[taxonomy_manager][version] = "1.0"
 ;projects[uuid][version] = "1.0-alpha5"
 ;projects[uuid_features][version] = "1.0-alpha4"
-projects[views][version] = "3.8"
+projects[views][version] = "3.10"
 projects[views_bulk_operations][version] = "3.2"
 
 
