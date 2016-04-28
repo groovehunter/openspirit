@@ -1,5 +1,5 @@
 name = Openspirit
-core = 7.x
+core = 8.x
 description = groovehunter's install profile based on buildkit
 
 ; Core
@@ -18,19 +18,9 @@ dependencies[] = taxonomy
 dependencies[] = admin_menu
 
 ;dependencies[] = admin_views
-dependencies[] = context
-dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = devel
-dependencies[] = dhtml_menu
 dependencies[] = features
-dependencies[] = fe_profile
-dependencies[] = fe_block
-dependencies[] = strongarm
-;dependencies[] = uuid
-;dependencies[] = uuid_features
-dependencies[] = views
-dependencies[] = views_ui
 
 
 ; own
